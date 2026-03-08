@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Mohamed Reda EZ-ZOUHRY</h1>
 <h3 align="center">Embedded Systems & Control Engineering student interested in digital design, robotics, and hardware architecture.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif">
