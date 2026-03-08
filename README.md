@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bk201-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bk201-dev" /> </p>
 
-- 🔭 I’m currently working on **Autonomous Sumo Robot**
+- 🔭 I’m currently working on **Autonomous Sumo Robot HAKUHO**
 
 - 🌱 I’m exploring **digital circuit and CPU design with VHDL & SystemVerilog on FPGA platforms, and building my skills in PCB design using Altium Designer**
 
