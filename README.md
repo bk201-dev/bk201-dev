@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **PCB Design & Electronic Hardware**
 
-- 📫 How to reach me **m.reda.ezzouhry@gmail.com**
+- 📫 How to reach me **https://bk201-dev.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
